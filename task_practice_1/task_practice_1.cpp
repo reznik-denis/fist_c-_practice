@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int task_1()
 {
     auto inch = 2.54;
     float sm;
