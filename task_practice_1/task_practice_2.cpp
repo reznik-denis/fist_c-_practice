@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int task_2()
 {
     int value;
     int digit;
