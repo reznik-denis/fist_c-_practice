@@ -1,4 +1,0 @@
-﻿  task_practice_1.cpp
-D:\C++_fist\fist_c-_practice\task_practice_1\task_practice_1.cpp(13,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\C++_fist\fist_c-_practice\task_practice_1\task_practice_1.cpp(18,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  task_practice_1.vcxproj -> D:\C++_fist\fist_c-_practice\task_practice_1\x64\Debug\task_practice_1.exe
