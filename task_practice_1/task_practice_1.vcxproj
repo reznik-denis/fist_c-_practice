@@ -128,6 +128,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="sp_average_array.cpp" />
+    <ClCompile Include="system_programing_practice_1.cpp" />
+    <ClCompile Include="system_programing_practice_2.cpp" />
     <ClCompile Include="task_practice_1.cpp" />
     <ClCompile Include="task_practice_2.cpp" />
     <ClCompile Include="task_practice_3.cpp" />
