@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int task_3()
 {
     int value;
     cout << "Please write an integer even value for calculate even factorial" << endl;

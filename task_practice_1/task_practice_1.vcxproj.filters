@@ -24,5 +24,14 @@
     <ClCompile Include="task_practice_3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="system_programing_practice_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="system_programing_practice_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sp_average_array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
