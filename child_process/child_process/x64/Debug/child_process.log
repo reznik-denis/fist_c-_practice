@@ -1,0 +1,4 @@
+﻿  child_process.cpp
+D:\C++_fist\fist_c-_practice\child_process\child_process\child_process.cpp(7,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\C++_fist\fist_c-_practice\child_process\child_process\child_process.cpp(19,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  child_process.vcxproj -> D:\C++_fist\fist_c-_practice\child_process\x64\Debug\child_process.exe
