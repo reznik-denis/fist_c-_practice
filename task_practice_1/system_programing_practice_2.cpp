@@ -8,7 +8,7 @@ int main()
     PROCESS_INFORMATION pi = { 0 };
     si.cb = sizeof(STARTUPINFO);
 
-    const wchar_t* command = L"D:\\Ñ\\fist_c-_practice\\average.exe";
+    const wchar_t* command = L"D:\\C\\fist_c-_practice\\average.exe";
 
     if (!CreateProcess(
         nullptr,
